@@ -2,7 +2,7 @@
 
 ---
 
-![Oxygen main](main.png)
+![Oxygen main](./main.png)
 
 ---
 
